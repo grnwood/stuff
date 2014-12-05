@@ -7,3 +7,4 @@ echo "More stuff added from github directly"
 echo "pulled and recommited locally"
 echo "one more commit"
 
+echo "back from the web"
